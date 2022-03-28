@@ -47,3 +47,10 @@ ul {
 dt {
     font-weight: bold;
 }
+
+/* Para ajustar o tamanho da fonte e alinhamento do texto nos campos de experiência
+propriedade criada por mim  */
+article {
+    font-size: 16px;
+    text-align: justify;
+}

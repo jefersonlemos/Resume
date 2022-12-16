@@ -48,9 +48,15 @@ dt {
     font-weight: bold;
 }
 
-/* Para ajustar o tamanho da fonte e alinhamento do texto nos campos de experiência
-propriedade criada por mim  */
-article {
+/* Para ajustar o tamanho da fonte e alinhamento do texto na section skills */
+.skills article {
     font-size: 16px;
+    text-align: justify;
+    width: 400px
+}
+
+/* Para ajustar o tamanho da fonte e alinhamento do texto na section work */
+.work article {
+    font-size: 17px;
     text-align: justify;
 }
